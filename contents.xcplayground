@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='Sorting'/>
+        <page name='Trie'/>
+        <page name='LinkedList'/>
+        <page name='BinarySearchTree'/>
+        <page name='Strings'/>
+        <page name='Arrays'/>
+        <page name='SwiftPatterns'/>
+        <page name='Dictionary'/>
+        <page name='PrefixTree'/>
+        <page name='PrefixTreeVariation'/>
+        <page name='enums'/>
+        <page name='Matrices'/>
+        <page name='Bit Manipulation'/>
+        <page name='Arithmetic'/>
+        <page name='Protocols'/>
+        <page name='QuickBook'/>
+        <page name='Patterns'/>
+    </pages>
+</playground>
